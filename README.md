@@ -1,3 +1,3 @@
-# Text-Based-Rpg-Gene-Zijlboot
+# Project-Text-Based-Rpg
 
-https://genezijlboot.github.io/Text-Based-Rpg-Gene-Zijlboot/
+https://genezijlboot.github.io/Project-Text-Based-Rpg
